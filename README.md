@@ -1,8 +1,6 @@
 # Hands-on Labs: prometheus-blackbox_exporter
 
-Prometheus is a tool monitoring the microservices and applications metrics using the pull mechanism.
-
-The blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP.
+`Prometheus` is a tool monitoring the microservices and applications metrics using the pull mechanism. The `blackbox_exporter` allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP.
 
 This document will show you the way to monitor the microservices enpoints using a `prometheus` server and `blackbox_exporter`.
 
