@@ -1,0 +1,12 @@
+*~
+*swp
+.project
+*.bak
+*.o
+*.a
+*.so
+*.exe
+*.test
+*.prof
+
+*.swn
